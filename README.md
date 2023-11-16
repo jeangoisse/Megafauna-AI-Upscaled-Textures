@@ -15,6 +15,6 @@ Ingame details using Camera+
 ![avant](https://github.com/jeangoisse/Megafauna-AI-Upscaled-Textures/assets/25428875/47bf6a35-ae12-45d4-bb3d-1b0ec8b8af5e)
 ![2023-11-16 23_20_08-RimWorld by Ludeon Studios](https://github.com/jeangoisse/Megafauna-AI-Upscaled-Textures/assets/25428875/ecb89f6e-7fb3-4c7f-88f8-e8d731f7755c)
 
-![2023-11-16 23_19_52-RimWorld by Ludeon Studios](https://github.com/jeangoisse/Megafauna-AI-Upscaled-Textures/assets/25428875/936f34c1-307e-4e06-8eb7-f9ac311e0251)
-![2023-11-16 23_33_40-RimWorld by Ludeon Studios](https://github.com/jeangoisse/Megafauna-AI-Upscaled-Textures/assets/25428875/cd3b54d3-7205-4067-a286-076f3b476517)
 
+![2023-11-16 23_33_40-RimWorld by Ludeon Studios](https://github.com/jeangoisse/Megafauna-AI-Upscaled-Textures/assets/25428875/cd3b54d3-7205-4067-a286-076f3b476517)
+![2023-11-16 23_19_52-RimWorld by Ludeon Studios](https://github.com/jeangoisse/Megafauna-AI-Upscaled-Textures/assets/25428875/936f34c1-307e-4e06-8eb7-f9ac311e0251)
